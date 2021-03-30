@@ -3,6 +3,17 @@ body {
     width: 70%;
 }
 
+h1 {
+    font-size: 3em;
+    font-family:'Georga';
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.2em;
+    color: #333;
+}
+
 nav ul {
     font-family:'Georga';
     padding: 0px;
@@ -24,17 +35,6 @@ a:hover {
     color: #5f9ea0;
 }
 
-h1 {
-    font-size: 3em;
-    font-family:'Georga';
-}
-
-p {
-    font-size: 1.5em;
-    line-height: 1.2em;
-    color: #333;
-}
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -42,4 +42,13 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+nav ul list {
+    display: list-item;
+    margin-right: 20px;
+}
+
+ul.posts list {
+    list-style: disc;
 }
