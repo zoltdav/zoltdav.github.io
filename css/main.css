@@ -1,7 +1,6 @@
 body {
     margin: 100px auto;
     width: 70%;
-    text-align: center;
 }
 
 h1 {
@@ -46,8 +45,7 @@ ul.posts li {
 }
 
 nav ul list {
-    display: inline-block;
-    text-align: left;
+    display: list-item;
 }
 
 ul.posts list {
