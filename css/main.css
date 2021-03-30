@@ -7,7 +7,7 @@ body {
 
 h1 {
     font-size: 2em;
-    font-family:'Georga';
+    font-family:'Georgia';
 }
 
 p {
@@ -20,7 +20,7 @@ nav ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    font-family:'Georga';
+    font-family:'Georgia';
 }
 
 nav ul li {
