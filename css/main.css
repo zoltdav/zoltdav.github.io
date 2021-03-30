@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 200px auto;
     width: 70%;
 }
 
@@ -16,14 +16,12 @@ p {
 
 nav ul {
     font-family:'Georga';
-    padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 
 nav ul li {
     display: inline;
-    margin-right: 20px;
 }
 
 a {
@@ -36,7 +34,6 @@ a:hover {
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
