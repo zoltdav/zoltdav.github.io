@@ -35,6 +35,10 @@ a:hover {
     color: #5f9ea0;
 }
 
+a:active {
+    color: #6495ed;
+}
+
 ul.posts { 
     font-size: 1.5em;
     margin: 20px auto 40px;
