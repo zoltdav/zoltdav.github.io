@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul {
-    font-family:'Georgia', 'Arial', 'Courier New';
+    font-family:'Times New Roman', 'Arial', 'Courier New';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,7 +21,7 @@ a:hover {
 }
 h2 {
     font-size: 3em;
-    font-family:'Georgia', 'Arial', 'Courier New';
+    font-family:'Times New Roman', 'Arial', 'Courier New';
 }
 p {
     font-size: 1.5em;
