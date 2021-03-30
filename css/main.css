@@ -47,7 +47,7 @@ ul.posts li {
 
 nav ul list {
     display: list-item;
-    list-style-position: outside;
+    color: #6495ed;
     margin-left: 150px auto;
 }
 
