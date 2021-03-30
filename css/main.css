@@ -2,27 +2,33 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
 nav ul {
     font-family:'Georga';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #0c0c0c;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Georga';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.2em;
@@ -31,7 +37,8 @@ p {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 2em;
+    line-height: 2em;
 }
 
 ul.posts li {
