@@ -1,5 +1,5 @@
 body {
-    margin: 200px auto;
+    margin: 100px auto;
     width: 70%;
 }
 
@@ -22,6 +22,7 @@ nav ul {
 
 nav ul li {
     display: inline;
+    margin-right: 20px;
 }
 
 a {
@@ -35,6 +36,7 @@ a:hover {
 
 ul.posts { 
     font-size: 1.5em;
+    margin: 20px auto 40px;
 }
 
 ul.posts li {
