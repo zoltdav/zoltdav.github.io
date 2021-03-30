@@ -15,9 +15,10 @@ p {
 }
 
 nav ul {
-    font-family:'Georga';
+    padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-family:'Georga';
 }
 
 nav ul li {
