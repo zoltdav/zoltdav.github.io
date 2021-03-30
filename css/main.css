@@ -48,6 +48,7 @@ ul.posts li {
 nav ul list {
     display: list-item;
     list-style-position: outside;
+    margin-left: 150px auto;
 }
 
 ul.posts list {
