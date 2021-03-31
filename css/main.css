@@ -5,6 +5,7 @@ body {
     line-height: 120%;
     color: #333;
     font-family:'Georgia';
+    max-width: 75ch;
 }
 
 h1 {
@@ -14,10 +15,6 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.2em;
-    max-width: 75ch;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 a {
