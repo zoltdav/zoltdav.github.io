@@ -30,7 +30,6 @@ nav ul li {
 
 a {
     text-decoration: none;
-    color: #0c0c0c;
 }
 
 a:hover {
@@ -48,7 +47,6 @@ ul.posts li {
 nav ul list {
     display: list-item;
     margin-left: 150px auto;
-    color: #333;
 }
 
 ul.posts list {
