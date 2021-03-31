@@ -3,29 +3,17 @@ body {
     width: 70%;
     font-size: 120%;
     line-height: 120%;
+    color: #333;
+    font-family:'Georgia';
 }
 
 h1 {
     font-size: 2em;
-    font-family:'Georgia';
 }
 
 p {
     font-size: 1.5em;
     line-height: 1.2em;
-    color: #333;
-}
-
-nav ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-    font-family:'Georgia';
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
 }
 
 a {
@@ -34,6 +22,17 @@ a {
 
 a:hover {
     color: #6495ed;
+}
+
+nav ul {
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
 }
 
 ul.posts {
