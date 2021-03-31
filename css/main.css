@@ -48,9 +48,9 @@ ul.posts li {
 nav ul list {
     display: list-item;
     margin-left: 150px auto;
+    color: #333;
 }
 
 ul.posts list {
     list-style: disc;
-    color: #333;
 }
